@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
--  I’m was worked with excel and office pack. Now i'm work in Fasano Tennis Club, and starting my career as developer
--  I’m currently learning Analytics and Developmens of Softwares
+-  I worked with excel and office pack. Now i'm work in Fasano Tennis Club, and starting my career as developer
+-  I’m currently learning Analytics and Development of Softwares
 -  I’m open for contact in Whatsapp(+5511992730881) and E-mail (lemospnicolas@gmail.com)
--  I currently live in São Paulo, Brazil
+-  I'm currently live in São Paulo, Brazil
 
