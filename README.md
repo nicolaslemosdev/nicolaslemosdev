@@ -12,3 +12,4 @@
 
 [![nicolaslemosdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolaslemosdev)](https://github.com/nicolaslemosdev/github-readme-stats)
 
+![nicolaslemosdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolaslemosdev&show_icons=true)
