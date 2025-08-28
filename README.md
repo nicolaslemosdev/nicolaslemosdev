@@ -7,7 +7,7 @@
 
 -  I worked with excel and office pack. Now i'm work in Fasano Tennis Club, and starting my career as developer
 -  Currently learning Analytics and Development of Softwares
--  Open for contact in Whatsapp(+5511992730881)
+-  Open for contact in Whatsapp (+5511992730881)
 -  Currently live in São Paulo, Brazil
 
 ![nicolaslemosdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolaslemosdev&show_icons=true&theme=tokyonight)
