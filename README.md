@@ -11,3 +11,15 @@
 -  I'm currently live in São Paulo, Brazil
 
 ![nicolaslemosdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolaslemosdev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslemosdev&layout=compact)
+
+##
+
+<div> 
+  
+  <a href="https://instagram.com/nplemoss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lemospnicolas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.linkedin.com/in/nicolas-pereira-lemos-9013ba194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
