@@ -10,6 +10,4 @@
 -  I’m open for contact in Whatsapp(+5511992730881) and E-mail (lemospnicolas@gmail.com)
 -  I'm currently live in São Paulo, Brazil
 
-[![nicolaslemosdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolaslemosdev)](https://github.com/nicolaslemosdev/github-readme-stats)
-
-![nicolaslemosdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolaslemosdev&show_icons=true)
+![nicolaslemosdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolaslemosdev&show_icons=true&theme=tokyonight)
