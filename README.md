@@ -5,8 +5,7 @@
 -->
 
 
--  I worked with excel and office pack. Now i'm work in Fasano Tennis Club, and starting my career as developer
--  Currently learning Analytics and Development of Softwares
+-  I worked with excel and office pack. Starting my career as developer
 -  Open for contact in Whatsapp (+5511992730881)
 -  Currently live in São Paulo, Brazil
 
